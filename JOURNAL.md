@@ -21,3 +21,17 @@ Overall good progress! I hope to be able to speed up how fast I work with KiCAD 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDcwLCJwdXIiOiJibG9iX2lkIn19--7bb544569a772b9ceedd13b09d8848b491705bee/image.png)
   
 
+## 10/6/2025 - Schematic - Audio & Screen  
+
+Added in the ST7735R LCD for the schematic and also the PCM5100 IIS DAC. I also added in an WS2812 5050 LED strip in the schematic. though that ended up using the last pin available. I want 3 octaves of keys while also have multiple buttons for various modes and an SD card to store .wav files if possible. I plan on looking into the SD card and a different microcontroller with more GPIO pins (likely something from the Raspberry Pi family so I can have both 5V and 3.3V).
+
+Overall, I made okay progress. I plan on hopefully finishing up the schematic next time while also cleaning it up for visibility.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjgxLCJwdXIiOiJibG9iX2lkIn19--14dc314801612b0992d682548cd333f83ec1bb36/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjgyLCJwdXIiOiJibG9iX2lkIn19--904104ff02a222f9a0d1661bba1c2636577b8aa8/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjgzLCJwdXIiOiJibG9iX2lkIn19--4fc223a58e209a57ee7f9599c922c4240752da92/image.png)
+
+  
+
