@@ -35,3 +35,20 @@ Overall, I made okay progress. I plan on hopefully finishing up the schematic ne
 
   
 
+## 10/8/2025 - Schematic - Shift register  
+
+Since I want the ability to add on other modules (or at least be able to do so more freely), I decided to change the rows in the switch matrix so they're connected to a SN74HC595 shift register. Since it has 8 outputs, it reduced the columns to 5 for a total of 40 buttons.
+
+Based on the limited research I've done, it seems that immediately saving the music played as a .wav file would likely pose issues or be more tedious instead of giving the raw data to my computer to do the hard work. Because of this, (if I do try and save the music played), it would probably be the literal raw data of what was played in txt format or something adjacent that's easy to read and write from a Python standpoint.
+
+Didn't get much progress done as I was looking into other modules and trying to figure out if the tutorial was missing anything in terms of the display potentially. On the same note, I'm considering switching it out for an LCD display. I'm more familiar with using it, and I feel it could better suit the needs of a Midi-keyboard given there isn't much graphical needed and more text/numbers that are necessary for settings.
+
+Overall, I hope to be able to get more progress done next time!
+
+![Screenshot 2025-10-07 at 22.34.29.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--2b4fdec234b02fb7a9bdb8ddcb8cab3224e8e53f/Screenshot%202025-10-07%20at%2022.34.29.png)
+
+![Screenshot 2025-10-07 at 22.34.50.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNywicHVyIjoiYmxvYl9pZCJ9fQ==--579ab45e52b1788877a3d28573fb795a4851434b/Screenshot%202025-10-07%20at%2022.34.50.png)
+
+![Screenshot 2025-10-07 at 22.35.04.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce1cb62acc1d3f0455b34f73ed027daddc8c2967/Screenshot%202025-10-07%20at%2022.35.04.png)
+  
+
